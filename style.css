@@ -18,12 +18,12 @@ ul {
 header img {
    width: 50px;
    height: 60px;
-   margin-top: 7px;
+   margin-top: 0px;
    margin-left: 10px;
 }
 header nav {
    background-color: rgb(19, 18, 18);
-   height: 60px;
+   height: 20px;
    width: 100%;
    position: fixed;
 }
@@ -31,7 +31,7 @@ header nav {
 padding: 8px;
 border: 2px solid rgb(214, 210, 210);
 position: fixed;
-top: 4%;
+top: 3%;
 right: 20%;
 background-color: transparent;
 border-radius: 50%;
@@ -66,7 +66,7 @@ margin: 0;
    align-items: center;
    padding: 0;
    cursor: pointer;
-   top: 4%;
+   top: 3%;
    right: 2%;
    position: fixed;
    transition: transform 300ms;
@@ -111,7 +111,7 @@ width: 0;
    z-index: 99;
    height: 0rem;
    position: absolute;
-   top: 11%;
+   top: 10%;
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .allli li {
@@ -141,7 +141,7 @@ height: 0rem;
    height: 13rem;
  }
  .sec1 {
-   
+   margin-top: -10px;
    background: url(felipe-simo-HBop_t9V9kM-unsplash.jpg) no-repeat;
    background-size: cover;
    height: 250px;
@@ -165,7 +165,7 @@ padding: 70px 0 0 20px;
    transition: .2s ease-in;
    position: absolute;
    position: fixed;
-   top: 11%;
+   top: 10%;
  }
  .input.indrop {
    height: 80px;
